@@ -1,0 +1,12 @@
+name: Finalproject
+title: Finalproject
+username: afrahask
+account: afrahask
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16293620
+bundleId: 11308655
+url: https://afrahask.shinyapps.io/Finalproject/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
